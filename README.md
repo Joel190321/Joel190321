@@ -110,7 +110,7 @@ I am in my second year at Utesa, studying the technical degree in Computer Syste
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joel190321&repo=Todo_App&theme=dark" alt="Project 2">
   </a>
   <a href="https://github.com/Joel190321/Project3">
-    <img src="https://github-readme-stats.vercel.ap/api/pin/?username=Joel190321&repo=MovieAppMobile&theme=dark" alt="Project 3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joel190321&repo=MovieAppMobile&theme=dark" alt="Project 3">
   </a>
 </p>
 
